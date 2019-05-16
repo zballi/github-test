@@ -1,0 +1,1 @@
+Create Table RT.md.ENTITY_TYPE_CODES(Entity_Type_Code int  , Entity_Type_Description varchar(15),PRIMARY KEY(Entity_Type_Code ));
