@@ -1,0 +1,3 @@
+Insert into table RT.md. Sole_Proprietor_Code Values  (“X”,”Not Answered”),
+(“Y”,”Yes, Entity Type 1 Provider(Individual)is a Sole Proprietor”), 
+(“N”,”No, Entity Type 1 Provider(Individual)is not a Sole Proprietor”);
