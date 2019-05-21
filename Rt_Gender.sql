@@ -1,0 +1,1 @@
+Create Table Npi_Rt_Gender (Code varchar(1) , Description varchar(10) Primary Key(Code) constraint Pk_Gender_Code);
